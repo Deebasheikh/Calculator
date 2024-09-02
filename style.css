@@ -11,8 +11,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(calculator.webp);
-    background-size: cover;
+/*     background: url(calculator.webp); */
+/*     background-size: cover; */
     
 
 }
